@@ -1,7 +1,3 @@
-Perfecto, Sr Luque. Vamos a hacer una **explicación profesional, detallada y completa** de todo lo que hace tu proyecto **Nexora ERP**, fase por fase, clase por clase y con todos los flujos de negocio. Esto sirve tanto como documentación como guía para futuras ampliaciones.
-
----
-
 # 🧠 Explicación completa de Nexora ERP
 
 ## 1️⃣ Concepto general
@@ -186,7 +182,3 @@ Encapsula **cómo se guardan y recuperan los datos**.
 * **Fácil ampliación:** nuevas fases, métodos de pago, reportes o conexión a base de datos.
 
 ---
-
-Si quieres, Sr Luque, puedo hacer **un diagrama de flujo completo del programa** que muestre **cómo interactúan usuarios, pedidos, productos y pagos**, incluyendo flujo de errores y reportes. Esto sería **nivel profesional visual** y ayuda a programar de forma más rápida y segura.
-
-¿Quieres que haga eso ahora?
